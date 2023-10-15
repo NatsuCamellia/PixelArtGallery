@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pixel Art Gallery</string>
+    <string name="artworkTitle001">玉子燒</string>
+    <string name="artworkTitle002">美式咖啡</string>
+    <string name="artworkTitle003">香菸</string>
+    <string name="artworkTitle004">蘋果</string>
+    <string name="artworkTitle005">生命藥水</string>
+    <string name="artworkDate001">2022 年 5 月 2 日</string>
+    <string name="artworkDate002">2022 年 5 月 3 日</string>
+    <string name="artworkDate003">2022 年 5 月 3 日</string>
+    <string name="artworkDate004">2022 年 5 月 5 日</string>
+    <string name="artworkDate005">2023 年 9 月 4 日</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+</resources>
